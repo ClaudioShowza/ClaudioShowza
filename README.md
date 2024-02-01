@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Olá, eu sou o Cláudio de Souza Junior!
 
-<!--
-**ClaudioShowza/ClaudioShowza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Web apaixonado por transformar linhas de código em experiências incríveis. Atualmente cursando o 4° Semestre de Sistemas para Internet.
 
-Here are some ideas to get you started:
+💡 Habilidades:
+- 💻 CSS, JavaScript, HTML para criar interfaces intuitivas.
+- ☕ Java para desenvolvimento robusto.
+- 🌐 Laravel, PHP, e WordPress para construção de soluções web eficientes.
+- 🔍 Apex para desenvolvimento na plataforma Salesforce.
+- 📊 SQL para gerenciamento eficaz de bancos de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Sempre em busca de aprendizado e aprimoramento, estou pronto para encarar novos desafios e contribuir para projetos inovadores.
+
+📫 Vamos conversar? 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudiosouzajr1/) 🚀
+- E-mail: [claudiosouzajunior0@gmail.com](mailto:claudiosouzajunior0@gmail.com) 📧
+- Telefone: (11) 95242-0762 📱
+
+#Inovação #DesenvolvimentoWeb #SistemasParaInternet #TechEnthusiast
