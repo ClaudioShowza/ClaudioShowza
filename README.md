@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Cláudio de Souza Junior!
 
-🚀 Desenvolvedor Web apaixonado por transformar linhas de código em experiências incríveis. Atualmente cursando o 4° Semestre de Sistemas para Internet.
+🚀 Desenvolvedor Web apaixonado por transformar linhas de código em experiências incríveis. Atualmente cursando o 5° Semestre de Sistemas para Internet.
 
 💡 Habilidades:
 - 💻 CSS, JavaScript, HTML para criar interfaces intuitivas.
