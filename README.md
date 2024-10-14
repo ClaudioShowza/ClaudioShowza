@@ -1,21 +1,5 @@
 👋 Olá, eu sou o Cláudio de Souza Junior!
 
-🚀 Desenvolvedor Web apaixonado por transformar linhas de código em experiências incríveis. Atualmente cursando o 5° Semestre de Sistemas para Internet.
-
-💡 Habilidades:
-- 💻 CSS, JavaScript, HTML para criar interfaces intuitivas.
-- ☕ Java para desenvolvimento robusto.
-- 🌐 Laravel, PHP, e WordPress para construção de soluções web eficientes.
-- 🔍 Apex para desenvolvimento na plataforma Salesforce.
-- 📊 SQL para gerenciamento eficaz de bancos de dados.
-
-🌱 Sempre em busca de aprendizado e aprimoramento, estou pronto para encarar novos desafios e contribuir para projetos inovadores.
-
-📫 Vamos conversar? 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudiosouzajr1/) 🚀
-- E-mail: [claudiosouzajunior0@gmail.com](mailto:claudiosouzajunior0@gmail.com) 📧
-- Telefone: (11) 95242-0762 📱👋 Olá, eu sou o Cláudio de Souza Junior!
-
 🚀 Desenvolvedor Full-Stack e DevOps apaixonado por transformar ideias em soluções funcionais e inovadoras. Atualmente cursando o 5° semestre de Sistemas para Internet, com uma forte base em desenvolvimento web e automação de processos. Sempre em busca de aprimorar minhas habilidades em tecnologias emergentes e contribuir para projetos de impacto.
 
 💡 Habilidades Técnicas:
@@ -42,4 +26,4 @@
     E-mail: claudiosouzajunior0@gmail.com 📧
     Telefone: (11) 95242-0762 📱
 
-#Inovação #DesenvolvimentoWeb #SistemasParaInternet #TechEnthusiast
+#DevOps #DesenvolvimentoWeb #FullStackDeveloper #TechEnthusiast #Inovação #Automação
